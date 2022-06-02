@@ -12,7 +12,7 @@ This workshop is a shorter and customize version of the [GitHub Training Manual]
 
 #### Step 1: Set up your GitHub.com account
 
-For this workshop you will use you public GitHub acction, and join the workshop organization. provided by GitHub. This organization is part of a GitHub Enterprise Cloud subscription, **that is similar to the one you have in your enterprise**.
+For this workshop you will use a public GitHub action, and join the workshop organization. provided by GitHub. This organization is part of a GitHub Enterprise Cloud subscription, **that is similar to the one you have in your enterprise**.
 
 The organization is configured to allow you to create private projects for your enterprise or customers in a secure place.
 
